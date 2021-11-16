@@ -1,7 +1,5 @@
 # cc1-pipeline
 
-alexis.boisseau@etu.u-pec.fr
-
 ## Partie 1
 
 1)
@@ -23,7 +21,7 @@ Un exemple du résultat du data pipeline se trouve dans le fichier "delivery-str
 
 ## Partie 2
 
-1)L'ingestion est réalisée grâce à l'agent Kinesis et au 
+1)L'ingestion est réalisée grâce à l'agent Kinesis et au Data Stream Kinesis pour aller chercher les données contenues dans l'EC2.
 
 ## Partie 3
 
